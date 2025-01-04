@@ -37,4 +37,6 @@ L'objectif principal est de démontrer comment réduire le couplage entre les co
 ### 5. **Fichier de configuration**  
 - **`confif.txt`** : Contient les informations nécessaires pour configurer l'application via l'instanciation dynamique. Exemple :  
   ```text  
+  dao=dao.DaoImpl  
+  metier=metier.MetierImpl  
  
